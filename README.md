@@ -1,6 +1,6 @@
 <!-- BE SURE TO UPDATE NAME AND LINK TO DOC -->
 
-# brigthcove-download-video-plugin
+# brightcove-download-video-plugin
 For more information about this sample see: https://support.brightcove.com/brightcove-player-sample-download-video-plugin.
 
 <p>The purpose and structure of files in this repo are:</p>
